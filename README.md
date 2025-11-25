@@ -27,7 +27,7 @@ Tables:
 8. Region-Product Matrix
 9. Average Order Value
 
-Bu#siness Insights
+#Business Insights
 1. Total Revenue
   ₹12,88,800
 2. Best Region
